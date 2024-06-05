@@ -26,7 +26,7 @@
 
 #### For Web Development & WebScraping
 | StreamLit | BS4 | Requests |
-| :---: | :---: | :---: | :---: |
+| :---: | :---: | :---: | 
 
 #### IDEs that I am aware with 
 | Pycharm | Spyder | Google Colab | Jupyter Notebook | VSCode | Kaggle
