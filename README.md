@@ -1,7 +1,7 @@
 # Hi, I'm Ahmed 👋
 
 ## 👨🏼‍✈️ About Me 
-- 🌱 I’m currently learning Data Science(data analysis and big data ecosystem analysis using apache spark and so on), Machine Learning Engineering for Production (MLOps) Specialization, Deep Learning(Tensorflow & Keras and PyTorch), NLP,  Computer Vision , LLM.
+- 🌱 I’m currently learning Data Science(data analysis ), Machine Learning Engineering for Production (MLOps) Specialization, Deep Learning(Tensorflow & Keras and PyTorch), NLP,  Computer Vision , LLM.
 ### Links
 * [📧 Email](ahmed.yaser.el.sharkawy@gmail.com)
 * [🔗 Kaggle](https://www.kaggle.com/ahmedyasserelshrkawy)
